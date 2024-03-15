@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hamza Farooq!
 
 ## 🚀 About Me
-👨‍💻 As a Full Stack Software Developer, I bring over 3 years of experience in creating and executing Web (ERP) applications and solutions across various sectors. Starting my career as a Front End developer, I've expanded my skills into Back End and Database systems, leveraging technologies such as Angular, .NET, Python (Django, Flask), LLMs, SLMs, Diffusion Models, DIP, and SQL-based databases.
+👨‍💻 As a Full Stack Software Developer, I bring over 5 years of experience in creating and executing Web (ERP) applications and solutions across various sectors. Starting my career as a Front End developer, I've expanded my skills into Back End and Database systems, leveraging technologies such as Angular, .NET, Python (Django, Flask), LLMs, SLMs, Diffusion Models, DIP, and SQL-based databases.
 
 🎓 Educated in Computer Science from Virtual University, I possess a strong commitment to ongoing learning, allowing me to quickly adapt to new technologies and environments.
 
