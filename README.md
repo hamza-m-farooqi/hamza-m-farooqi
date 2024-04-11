@@ -1,6 +1,18 @@
-# 👋 Hi, I'm Hamza Farooq!
+<h1 align="center">Hi👋, I'm Pawan</h1>
+<hr/>
+<h3 align="center">Full Stack Developer & AI Expert</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamza-m-farooqi)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> 
+  <a href="https://github.com/PawanOsman" alt="Pawan's GitHub">
+    <img src="https://komarev.com/ghpvc/?username=hamza-m-farooqi&label=Profile%20views&color=0e75b6&style=flat&logo=Patreon" />
+  </a>
+  <a href="https://www.patreon.com/hamzamfarooqi" alt="Hamza's Patreon">
+    <img src="https://img.shields.io/badge/patreon-donate-blueviolet.svg?color=FF424D&logo=Patreon" />
+  </a>
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-m-farooqi&theme=discord" alt="hamzamfarooqi" /></a> </p>
+
 
 ## 🚀 About Me
 👨‍💻 As a Full Stack Software Developer, I bring over 5 years of experience in creating and executing Web (ERP) applications and solutions across various sectors. Starting my career as a Front End developer, I've expanded my skills into Back End and Database systems, leveraging technologies such as Angular, .NET, Python (Django, Flask), LLMs, SLMs, Diffusion Models, DIP, and SQL-based databases.
