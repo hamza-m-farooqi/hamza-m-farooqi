@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Hamza Farooq!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamza-m-farooqi)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 About Me
 👨‍💻 As a Full Stack Software Developer, I bring over 5 years of experience in creating and executing Web (ERP) applications and solutions across various sectors. Starting my career as a Front End developer, I've expanded my skills into Back End and Database systems, leveraging technologies such as Angular, .NET, Python (Django, Flask), LLMs, SLMs, Diffusion Models, DIP, and SQL-based databases.
 
