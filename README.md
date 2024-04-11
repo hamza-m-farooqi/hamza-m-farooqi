@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-m-farooqi&theme=ondark" alt="hamzamfarooqi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-m-farooqi&theme=ondark&row=1" alt="hamzamfarooqi" /></a> </p>
 
 <div align="center"> 
 💬 Ask me about <b>Python, C# , JS/TS, SQL & AI</b>
